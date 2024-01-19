@@ -1,3 +1,6 @@
+GD 2.11 VULNERABILITY IS NOT FIXED HERE, DO NOT USE
+
+
 # GMDprivateServer
 ## Geometry Dash Private Server
 Basically a Geometry Dash Server Emulator
