@@ -1,6 +1,6 @@
 GD 2.11 VULNERABILITY IS NOT FIXED HERE, DO NOT USE
 
-
+But in fact, to be honest, I don’t even know, in short, it’s better not to use
 # GMDprivateServer
 ## Geometry Dash Private Server
 Basically a Geometry Dash Server Emulator
